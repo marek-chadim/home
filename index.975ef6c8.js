@@ -27088,10 +27088,10 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Marek Chadim",
-    title: "Economics Student",
+    title: "MSc in Economics Student",
     email: "42624@student.hhs.se",
-    gitHub: "https://github.com/marek-chadim",
-    linkedIn: "https://www.linkedin.com/in/marek-chadim/"
+    gitHub: "marek-chadim",
+    linkedIn: "marek-chadim"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
