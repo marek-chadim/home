@@ -18,13 +18,13 @@ import React from "react";
  */
 import image from "../images/stockholm.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Stockholm";
 
 /**
- * Sort description that expands on your title on the Home component.
+ * Short description that expands on your title on the Home component.
  */
 const description =
-  "I study at the Stockholm School of Economics.";
+  "MSc Economics & TA @ Stockholm School of Economics, PhD Econometrics & RA @ IIES Stockholm University";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -38,7 +38,7 @@ const skillsList = ["Econometrics", "Statistics", "Data Science", "Machine Learn
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I focus on econometric methods in empirical economic research.";
+  "I am passionate about applying econometric methods in empirical economic research.";
 
 const About = () => {
   return (

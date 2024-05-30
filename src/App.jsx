@@ -11,7 +11,6 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
-import Education from "./Components/Education";
 
 import "./styles.css";
 
@@ -26,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Marek Chadim",
-  title: "MSc in Economics Student",
+  title: "Economics Student",
   email: "42624@student.hhs.se",
   gitHub: "marek-chadim",
   linkedIn: "marek-chadim",
