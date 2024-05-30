@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an MSc in Economics student at the Stockholm School of Economics.";
+  "I study at the Stockholm School of Economics.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -38,7 +38,7 @@ const skillsList = ["Econometrics", "Statistics", "Data Science", "Machine Learn
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about applying econometric methods in empirical economic research.";
+  "I focus on econometric methods in empirical economic research.";
 
 const About = () => {
   return (
