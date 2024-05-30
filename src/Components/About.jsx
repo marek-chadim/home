@@ -24,7 +24,7 @@ const imageAltText = "Stockholm";
  * Short description that expands on your title on the Home component.
  */
 const description =
-  "MSc in Economics & TA @ Stockholm School of Economics, PhD Econometrics & RA @ IIES Stockholm University";
+  "MSc in Economics & TA at the Stockholm School of Economics, PhD Econometrics & RA at the Institute for International Economic Studies Stockholm University";
 
 /**
  * List of some of skills or technologies you work on, are learning,
