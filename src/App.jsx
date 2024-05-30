@@ -25,11 +25,10 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Marek Chadim",
-  title: "",
-  email: "",
-  gitHub: "",
-  instagram: "",
-  linkedIn: "",
+  title: "Economics MSc Student",
+  email: "42624@student.hhs.se",
+  gitHub: "https://github.com/marek-chadim",
+  linkedIn: "https://www.linkedin.com/in/marek-chadim/",
   medium: "",
   twitter: "",
   youTube: "",
