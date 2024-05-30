@@ -27178,7 +27178,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "MSc Economics & TA @ Stockholm School of Economics, PhD Econometrics & RA @ IIES Stockholm University";
+ */ const description = "MSc in Economics @ Stockholm School of Economics, PhD Econometrics & RA @ IIES Stockholm University";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
