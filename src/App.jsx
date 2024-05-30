@@ -25,10 +25,10 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Marek Chadim",
-  title: "Economics Student",
+  title: "MSc in Economics Student",
   email: "42624@student.hhs.se",
   gitHub: "marek-chadim",
-  linkedIn: "https://www.linkedin.com/in/marek-chadim/",
+  linkedIn: "marek-chadim",
 };
 
 const primaryColor = "#4E567E";
