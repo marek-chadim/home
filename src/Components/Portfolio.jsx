@@ -31,28 +31,20 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Data Science Specialization, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
+    description: "Concepts and tools of the entire data science pipeline.",
+    url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Machine Learning Specialization by Andrew Ng, Stanford University",
+    description: "Best practices for model building and applying machine learning techniques.",
+    url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91",
   },
   {
-    title: "My Resume Site",
+    title: "Bachelor's Thesis: Markups and Public Procurement",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Analysis of the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
+    url: "https://dspace.cuni.cz/handle/20.500.11956/184831",
   },
 ];
 
