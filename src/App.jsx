@@ -27,7 +27,7 @@ const siteProps = {
   name: "Marek Chadim",
   title: "Economics Student",
   email: "42624@student.hhs.se",
-  gitHub: "https://github.com/marek-chadim",
+  gitHub: "marek-chadim",
   linkedIn: "https://www.linkedin.com/in/marek-chadim/",
 };
 
