@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/wrench.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "The Economist as Plumber";
 
 /**
  * Project list
@@ -56,7 +56,12 @@ const Portfolio = () => {
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
-            style={{ height: "90%", width: "100%", objectFit: "cover", animation: "1s ease-out 0s 1 slideInLeft" }}
+            style={{
+              height: "90%",
+              width: "100%",
+              objectFit: "cover",
+              animation: "1s ease-out 0s 1 slideInLeft",
+            }}
             alt={imageAltText}
           />
         </div>
