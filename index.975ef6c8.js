@@ -27088,7 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Marek Chadim",
-    title: "Study and Research in Economics and Econometrics",
+    title: "Student of Economics and Econometrics",
     email: "42624@student.hhs.se",
     gitHub: "marek-chadim",
     linkedIn: "marek-chadim"
