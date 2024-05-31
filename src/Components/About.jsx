@@ -24,13 +24,13 @@ const imageAltText = "Stockholm";
  * Short description that expands on your title on the Home component.
  */
 const description =
-  "MSc in Economics & TA at the Stockholm School of Economics, PhD Econometrics & RA at the Institute for International Economic Studies Stockholm University";
+  "MSc in Economics & TA at the Stockholm School of Economics, PhD Econometrics & RA at the Institute for International Economic Studies, Stockholm University";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = ["Econometrics", "Statistics", "Data Science", "Machine Learning"];
+const skillsList = ["Econometrics", "Causal Inference", "Data Analysis", "Machine Learning"];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -38,8 +38,7 @@ const skillsList = ["Econometrics", "Statistics", "Data Science", "Machine Learn
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about applying econometric methods in empirical economic research.";
-
+  "I am passionate about empirical econometric research, ranging from reduced-form to structural evaluation.";
 const About = () => {
   return (
     <section className="padding" id="about">
