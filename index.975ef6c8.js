@@ -27192,7 +27192,7 @@ const imageAltText = "Stockholm";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about empirical econometric research, ranging from reduced-form to structural evaluation.";
+ */ const detailOrQuote = "I am passionate about empirical microecconometric methods ranging from reduced-form to structural evaluation.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
