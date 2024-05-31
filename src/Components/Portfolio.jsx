@@ -30,47 +30,46 @@ const imageAltText = "The Economist as Plumber";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
-
   {
-    title: "Markups and Public Procurement",
-    description:
-      "Bachelor's Thesis analyzing the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
-    url: "https://dspace.cuni.cz/handle/20.500.11956/184831",
+    title: "Data Science Specialization",
+    description: "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
+    url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
   }
   ,
   {
-    title: "Data Analyst",
-    description:
-      "DataCamp career track focused on importing, cleaning, manipulating, and visualizing data",
-    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
+    title: "Machine Learning Specialization",
+    description: "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
+    url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91",
   },
 
   {
     title: "Elements of AI",
     description:
-      "University of Helsinki's combination of theory and practice on what can (and can’t) be done with AI, and how to start creating AI methods.",
+      "Combination of theory and practice on what can (and can’t) be done with AI, and how to start creating AI methods, University of Helsinki",
     url: "https://certificates.mooc.fi/validate/wspeomm2ier",
   },
 
   {
-    title: "Code in Place",
+    title: "Stanford University's Code in Place 2023",
     description:
-      "Fundamentals of programming covering material from Stanford University's CS106A: Programming Methodologies",
+      "Fundamentals of programming covering material from  CS106A: Programming Methodologies.",
     url: "https://codeinplace.stanford.edu/cip3/certificate/1bcm36",
   },
-
   {
-    title: "Machine Learning",
-    description: "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University",
-    url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91",
+    title: "Data Analyst",
+    description:
+      "Career track focused on importing, cleaning, manipulating, and visualizing data.",
+    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
+  },
+  {
+    title: "Markups and Public Procurement",
+    description:
+      "Bachelor's Thesis analyzing the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
+    url: "https://dspace.cuni.cz/handle/20.500.11956/184831",
   },
 
-  {
-    title: "Data Science",
-    description: "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Johns Hopkins University",
-    url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
-  }
-  ,
+
+
  
 
 
