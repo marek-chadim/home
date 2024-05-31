@@ -27088,7 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Marek Chadim",
-    title: "Economics Student",
+    title: "Study and Research in Economics and Econometrics",
     email: "42624@student.hhs.se",
     gitHub: "marek-chadim",
     linkedIn: "marek-chadim"
@@ -27178,7 +27178,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "MSc in Economics & TA at the Stockholm School of Economics, PhD Econometrics & RA at the Institute for International Economic Studies, Stockholm University";
+ */ const description = "I study MSc in Economics and assist with teaching at the Stockholm School of Economics, and study PhD Econometrics  and assist with reasearch at the Institute for International Economic Studies, Stockholm University";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27192,7 +27192,7 @@ const imageAltText = "Stockholm";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about empirical microecconometric methods ranging from reduced-form to structural evaluation.";
+ */ const detailOrQuote = "I am passionate about empirical microeconometric research: from reduced-form to structural, discrete choice, and causal machine learning evaluation.;";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
