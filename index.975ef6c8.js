@@ -27178,7 +27178,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "I study the MSc in Economics program and assist with teaching at the Stockholm School of Economics, and study PhD Econometrics and assist with research at the Institute for International Economic Studies, Stockholm University.";
+ */ const description = "I am an economics student passionate about applied econometrics, ranging from reduced-form to structural evaluation, discrete choice, and causal machine learning. With a background in industrial organization, I now focus on topics in labor economics, health economics, development economics, and the economics of education.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27192,7 +27192,7 @@ const imageAltText = "Stockholm";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about empirical micro-econometrics: from reduced-form to structural, discrete choice, and causal machine learning evaluation.;";
+ */ const detailOrQuote = "MSc in Economics Student at the Stockholm School of Economics, Research Assistant at the Institute for International Economic Studies, Stockholm University";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
