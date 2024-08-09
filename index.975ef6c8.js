@@ -27168,7 +27168,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that
+ * directory and import here for use. Then, set imageAltText to string that 
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -27178,21 +27178,21 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "I am an economics student passionate about applied micro-econometrics, ranging from reduced-form to structural evaluation, discrete choice, and causal machine learning.";
+ */ const description = "I am an economics student passionate about applied econometrics, ranging from reduced-form to structural evaluation, discrete choice, and causal machine learning. With a background in industrial organization, I now focus on topics in labor economics, health economics, development economics, and the economics of education.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Microeconomics",
     "Econometrics",
     "Causal Inference",
+    "Data Analysis",
     "Machine Learning"
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "Student @ Stockholm School of Economics, Research Assistant @ IIES Stockholm University";
+ */ const detailOrQuote = "MSc in Economics Student at the Stockholm School of Economics, Research Assistant at the Institute for International Economic Studies, Stockholm University";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
