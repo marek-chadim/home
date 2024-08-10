@@ -25,8 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Marek Chadim",
-  title: "Economics Student",
-  email: "42624@student.hhs.se",
+  email: "marek.chadim@iies.su.se",
   gitHub: "marek-chadim",
   linkedIn: "marek-chadim",
 };

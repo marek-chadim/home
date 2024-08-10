@@ -31,22 +31,17 @@ const imageAltText = "The Economist as Plumber";
  */
 const projectList = [
   {
-    title: "Data Science Specialization",
-    description: "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
-    url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
-  }
-  ,
-  {
-    title: "Machine Learning Specialization",
-    description: "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
-    url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91",
+    title: "Markups and Public Procurement",
+    description:
+      "Bachelor's Thesis analyzing the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
+    url: "https://dspace.cuni.cz/handle/20.500.11956/184831",
   },
 
   {
-    title: "Elements of AI",
+    title: "DataCamp Data Analyst with R",
     description:
-      "Combination of theory and practice on what can (and can’t) be done with AI, and how to start creating AI methods, University of Helsinki",
-    url: "https://certificates.mooc.fi/validate/wspeomm2ier",
+      " Career track focused on importing, cleaning, manipulating, and visualizing data.",
+    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
   },
 
   {
@@ -55,27 +50,27 @@ const projectList = [
       "Fundamentals of programming covering material from  CS106A: Programming Methodologies.",
     url: "https://codeinplace.stanford.edu/cip3/certificate/1bcm36",
   },
+
   {
-    title: "Data Analyst",
+    title: "Elements of AI, University of Helsinki",
     description:
-      "Career track focused on importing, cleaning, manipulating, and visualizing data.",
-    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
-  },
-  {
-    title: "Markups and Public Procurement",
-    description:
-      "Bachelor's Thesis analyzing the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
-    url: "https://dspace.cuni.cz/handle/20.500.11956/184831",
+      "Combination of theory and practice on what can (and can’t) be done with AI, and how to start creating AI methods.",
+    url: "https://certificates.mooc.fi/validate/wspeomm2ier",
   },
 
+  {
+    title: "Coursera Machine Learning Specialization",
+    description:
+      "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
+    url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91",
+  },
 
-
- 
-
-
-
-
-
+  {
+    title: "Coursera Data Science Specialization",
+    description:
+      "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
+    url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
+  },
 ];
 
 const Portfolio = () => {

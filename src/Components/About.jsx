@@ -24,15 +24,14 @@ const imageAltText = "Stockholm";
  * Short description that expands on your title on the Home component.
  */
 const description =
-  "I am an MSc in Economics student passionate about econometrics, statistics, machine and data science.";
-
+  "I’m second year Economics MSc student at the Stockholm School of Economics passionate about econometrics, statistics, machine learning, and research on topics in applied microeconomics and related fields.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Bc Economic Theory IES Charles University in Prague + Exchange Data Science Maastricht University",
-  "MSc in Economics Stockholm School of Economics + Exchange Data Science Università Bocconi Milano",
+  "Bc Economic Theory @ IES Charles University in Prague + Exchange Econometrics & Operations Research @ SBE Maastricht University",
+  "MSc Economics @ SSE + PhD Econometrics @ Stockholm University, Upcoming Exchange Statistics and Machine Learning @ Università Bocconi ",
 ];
 
 /**
@@ -41,7 +40,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am currently working as a research assistant at the Institute for International Economic Studies, Stockholm University. ";
+  "I am currently working as a research assistant at the Institute for International Economic Studies, where I work with Professor Ingvild Almås on analyzing a large longitudinal cohort dataset using state-of-the art methods to measure child development.";
 const About = () => {
   return (
     <section className="padding" id="about">
