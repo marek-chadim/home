@@ -28755,14 +28755,19 @@ const imageAltText = "The Economist as Plumber";
         url: "https://dspace.cuni.cz/handle/20.500.11956/184831"
     },
     {
-        title: "R Data Science Specialization (Johns Hopkins University)",
-        description: "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
-        url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881"
+        title: "PhD Econometrics Course with Stata and R",
+        description: "Coursework from first year PhD Econometrics sequence at Stockholm University.",
+        url: "https://github.com/marek-chadim/Coursework/tree/main/PhD"
     },
     {
-        title: "DataCamp Data Analyst with R",
-        description: " Career track focused on importing, cleaning, manipulating, and visualizing data.",
-        url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29"
+        title: "Coursera Machine Learning Specialization",
+        description: "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
+        url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91"
+    },
+    {
+        title: "Coursera Data Science Specialization",
+        description: "Tools covering the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Johns Hopkins University.",
+        url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881"
     },
     {
         title: "DataCamp Julia Fundamentals",
@@ -28770,14 +28775,19 @@ const imageAltText = "The Economist as Plumber";
         url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/108e795acb6f94780353f8aec3d8bd8d77072075"
     },
     {
+        title: "DataCamp Data Analyst with R",
+        description: "Importing, cleaning, manipulating, and visualizing data.",
+        url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29"
+    },
+    {
         title: "Stanford University's Code in Place 2023",
-        description: "Fundamentals of programming covering material from  CS106A: Programming Methodologies.",
+        description: "Course covering material from CS106A: Programming Methodologies.",
         url: "https://codeinplace.stanford.edu/cip3/certificate/1bcm36"
     },
     {
-        title: "Python Machine Learning Specialization (Andrew Ng)",
-        description: "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
-        url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91"
+        title: "Elements of AI, University of Helsinki",
+        description: "What can (and can’t) be done with AI, and how to start creating AI methods.",
+        url: "https://certificates.mooc.fi/validate/wspeomm2ier"
     }, 
 ];
 const Portfolio = ()=>{
@@ -28792,7 +28802,7 @@ const Portfolio = ()=>{
                 children: "Portfolio"
             }, void 0, false, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 80,
+                lineNumber: 88,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28818,12 +28828,12 @@ const Portfolio = ()=>{
                             alt: imageAltText
                         }, void 0, false, {
                             fileName: "src/Components/Portfolio.jsx",
-                            lineNumber: 83,
+                            lineNumber: 91,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 82,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28842,12 +28852,12 @@ const Portfolio = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Portfolio.jsx",
-                                            lineNumber: 98,
+                                            lineNumber: 106,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 97,
+                                        lineNumber: 105,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -28855,30 +28865,30 @@ const Portfolio = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 100,
+                                        lineNumber: 108,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Portfolio.jsx",
-                                lineNumber: 96,
+                                lineNumber: 104,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 94,
+                        lineNumber: 102,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 81,
+                lineNumber: 89,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Portfolio.jsx",
-        lineNumber: 79,
+        lineNumber: 87,
         columnNumber: 5
     }, undefined);
 };
