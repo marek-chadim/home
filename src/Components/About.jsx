@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,13 +24,16 @@ const imageAltText = "Stockholm";
  * Short description that expands on your title on the Home component.
  */
 const description =
-  "I am an economics student passionate about applied econometrics, ranging from reduced-form to structural evaluation, discrete choice, and causal machine learning. With a background in industrial organization, I now focus on topics in labor economics, health economics, development economics, and the economics of education.";
+  "I am an MSc in Economics student passionate about econometrics, statistics, machine and data science.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = ["Econometrics", "Causal Inference", "Data Analysis", "Machine Learning"];
+const skillsList = [
+  "Bc Economic Theory IES Charles University in Prague + Exchange Data Science Maastricht University",
+  "MSc in Economics Stockholm School of Economics + Exchange Data Science Università Bocconi Milano",
+];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -38,7 +41,7 @@ const skillsList = ["Econometrics", "Causal Inference", "Data Analysis", "Machin
  * about you on a professional level.
  */
 const detailOrQuote =
-  "MSc in Economics Student at the Stockholm School of Economics, Research Assistant at the Institute for International Economic Studies, Stockholm University"";
+  "I am currently working as a research assistant at the Institute for International Economic Studies, Stockholm University. ";
 const About = () => {
   return (
     <section className="padding" id="about">
