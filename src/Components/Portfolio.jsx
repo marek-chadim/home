@@ -38,17 +38,23 @@ const projectList = [
   },
 
   {
-    title: "R Data Science Specialization (Johns Hopkins University)",
-    description:
-      "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
-    url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
+    title: "PhD Econometrics Course with Stata and R",
+    description: "Coursework from first year PhD Econometrics sequence at Stockholm University.",
+    url: "https://github.com/marek-chadim/Coursework/tree/main/PhD",
   },
 
   {
-    title: "DataCamp Data Analyst with R",
+    title: "Coursera Machine Learning Specialization",
     description:
-      " Career track focused on importing, cleaning, manipulating, and visualizing data.",
-    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
+      "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
+    url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91",
+  },
+
+  {
+    title: "Coursera Data Science Specialization",
+    description:
+      "Tools covering the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Johns Hopkins University.",
+    url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
   },
 
   {
@@ -58,17 +64,21 @@ const projectList = [
   },
 
   {
+    title: "DataCamp Data Analyst with R",
+    description: "Importing, cleaning, manipulating, and visualizing data.",
+    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
+  },
+
+  {
     title: "Stanford University's Code in Place 2023",
-    description:
-      "Fundamentals of programming covering material from  CS106A: Programming Methodologies.",
+    description: "Course covering material from CS106A: Programming Methodologies.",
     url: "https://codeinplace.stanford.edu/cip3/certificate/1bcm36",
   },
 
   {
-    title: "Python Machine Learning Specialization (Andrew Ng)",
-    description:
-      "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
-    url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91",
+    title: "Elements of AI, University of Helsinki",
+    description: "What can (and can’t) be done with AI, and how to start creating AI methods.",
+    url: "https://certificates.mooc.fi/validate/wspeomm2ier",
   },
 ];
 
