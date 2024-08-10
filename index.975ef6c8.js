@@ -27088,8 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Marek Chadim",
-    title: "Economics Student",
-    email: "42624@student.hhs.se",
+    email: "marek.chadim@iies.su.se",
     gitHub: "marek-chadim",
     linkedIn: "marek-chadim"
 };
@@ -27101,7 +27100,7 @@ const App = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 40,
+                lineNumber: 39,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDefault.default), {
@@ -27109,17 +27108,17 @@ const App = ()=>{
                 title: siteProps.title
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 42,
+                lineNumber: 41,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _portfolioDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 43,
+                lineNumber: 42,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {
@@ -27128,13 +27127,13 @@ const App = ()=>{
                 secondaryColor: secondaryColor
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 44,
+                lineNumber: 43,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/App.jsx",
-        lineNumber: 39,
+        lineNumber: 38,
         columnNumber: 5
     }, undefined);
 };
@@ -27178,19 +27177,19 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "I am an MSc in Economics student passionate about econometrics, statistics, machine and data science.";
+ */ const description = "I’m second year Economics MSc student at the Stockholm School of Economics passionate about econometrics, statistics, machine learning, and research on topics in applied microeconomics and related fields.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Bc Economic Theory IES Charles University in Prague + Exchange Data Science Maastricht University",
-    "MSc in Economics Stockholm School of Economics + Exchange Data Science Universit\xe0 Bocconi Milano", 
+    "Bc Economic Theory @ IES Charles University in Prague + Exchange Econometrics & Operations Research @ SBE Maastricht University",
+    "MSc Economics @ SSE + PhD Econometrics @ Stockholm University, Upcoming Exchange Statistics and Machine Learning @ Universit\xe0 Bocconi ", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am currently working as a research assistant at the Institute for International Economic Studies, Stockholm University. ";
+ */ const detailOrQuote = "I am currently working as a research assistant at the Institute for International Economic Studies, where I work with Professor Ingvild Alm\xe5s on analyzing a large longitudinal cohort dataset using state-of-the art methods to measure child development.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -27202,7 +27201,7 @@ const About = ()=>{
                 alt: imageAltText
             }, void 0, false, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 48,
+                lineNumber: 47,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27218,7 +27217,7 @@ const About = ()=>{
                         children: "About Myself"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 58,
+                        lineNumber: 57,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27226,12 +27225,12 @@ const About = ()=>{
                         children: description
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 59,
+                        lineNumber: 58,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 60,
+                        lineNumber: 59,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -27246,17 +27245,17 @@ const About = ()=>{
                                 children: skill
                             }, skill, false, {
                                 fileName: "src/Components/About.jsx",
-                                lineNumber: 71,
+                                lineNumber: 70,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 61,
+                        lineNumber: 60,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 74,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27266,19 +27265,19 @@ const About = ()=>{
                         children: detailOrQuote
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 75,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 49,
+                lineNumber: 48,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/About.jsx",
-        lineNumber: 47,
+        lineNumber: 46,
         columnNumber: 5
     }, undefined);
 };
@@ -28608,7 +28607,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  *
@@ -28751,19 +28750,14 @@ const imageAltText = "The Economist as Plumber";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "Data Science Specialization",
-        description: "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
-        url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881"
+        title: "Markups and Public Procurement",
+        description: "Bachelor's Thesis analyzing the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
+        url: "https://dspace.cuni.cz/handle/20.500.11956/184831"
     },
     {
-        title: "Machine Learning Specialization",
-        description: "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
-        url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91"
-    },
-    {
-        title: "Elements of AI",
-        description: "Combination of theory and practice on what can (and can’t) be done with AI, and how to start creating AI methods, University of Helsinki",
-        url: "https://certificates.mooc.fi/validate/wspeomm2ier"
+        title: "DataCamp Data Analyst with R",
+        description: " Career track focused on importing, cleaning, manipulating, and visualizing data.",
+        url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29"
     },
     {
         title: "Stanford University's Code in Place 2023",
@@ -28771,14 +28765,19 @@ const imageAltText = "The Economist as Plumber";
         url: "https://codeinplace.stanford.edu/cip3/certificate/1bcm36"
     },
     {
-        title: "Data Analyst",
-        description: "Career track focused on importing, cleaning, manipulating, and visualizing data.",
-        url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29"
+        title: "Elements of AI, University of Helsinki",
+        description: "Combination of theory and practice on what can (and can’t) be done with AI, and how to start creating AI methods.",
+        url: "https://certificates.mooc.fi/validate/wspeomm2ier"
     },
     {
-        title: "Markups and Public Procurement",
-        description: "Bachelor's Thesis analyzing the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
-        url: "https://dspace.cuni.cz/handle/20.500.11956/184831"
+        title: "Coursera Machine Learning Specialization",
+        description: "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
+        url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91"
+    },
+    {
+        title: "Coursera Data Science Specialization",
+        description: "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
+        url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881"
     }, 
 ];
 const Portfolio = ()=>{
@@ -28793,7 +28792,7 @@ const Portfolio = ()=>{
                 children: "Portfolio"
             }, void 0, false, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 84,
+                lineNumber: 79,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28819,12 +28818,12 @@ const Portfolio = ()=>{
                             alt: imageAltText
                         }, void 0, false, {
                             fileName: "src/Components/Portfolio.jsx",
-                            lineNumber: 87,
+                            lineNumber: 82,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 86,
+                        lineNumber: 81,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28843,12 +28842,12 @@ const Portfolio = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Portfolio.jsx",
-                                            lineNumber: 102,
+                                            lineNumber: 97,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 101,
+                                        lineNumber: 96,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -28856,30 +28855,30 @@ const Portfolio = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 104,
+                                        lineNumber: 99,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Portfolio.jsx",
-                                lineNumber: 100,
+                                lineNumber: 95,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 98,
+                        lineNumber: 93,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 85,
+                lineNumber: 80,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Portfolio.jsx",
-        lineNumber: 83,
+        lineNumber: 78,
         columnNumber: 5
     }, undefined);
 };
