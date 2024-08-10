@@ -38,10 +38,23 @@ const projectList = [
   },
 
   {
+    title: "R Data Science Specialization (Johns Hopkins University)",
+    description:
+      "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
+    url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
+  },
+
+  {
     title: "DataCamp Data Analyst with R",
     description:
       " Career track focused on importing, cleaning, manipulating, and visualizing data.",
     url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
+  },
+
+  {
+    title: "DataCamp Julia Fundamentals",
+    description: "Intermediate Julia programming and data manipulation.",
+    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/108e795acb6f94780353f8aec3d8bd8d77072075",
   },
 
   {
@@ -52,24 +65,10 @@ const projectList = [
   },
 
   {
-    title: "Elements of AI, University of Helsinki",
-    description:
-      "Combination of theory and practice on what can (and can’t) be done with AI, and how to start creating AI methods.",
-    url: "https://certificates.mooc.fi/validate/wspeomm2ier",
-  },
-
-  {
-    title: "Coursera Machine Learning Specialization",
+    title: "Python Machine Learning Specialization (Andrew Ng)",
     description:
       "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
     url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91",
-  },
-
-  {
-    title: "Coursera Data Science Specialization",
-    description:
-      "Concepts and tools of the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Department of Biostatistics Johns Hopkins Bloomberg School of Public Health",
-    url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
   },
 ];
 
