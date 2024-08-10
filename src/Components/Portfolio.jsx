@@ -58,15 +58,15 @@ const projectList = [
   },
 
   {
-    title: "DataCamp Julia Fundamentals",
-    description: "Intermediate Julia programming and data manipulation.",
-    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/108e795acb6f94780353f8aec3d8bd8d77072075",
-  },
-
-  {
     title: "DataCamp Data Analyst with R",
     description: "Importing, cleaning, manipulating, and visualizing data.",
     url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
+  },
+
+  {
+    title: "DataCamp Julia Fundamentals",
+    description: "Intermediate Julia programming and data manipulation.",
+    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/108e795acb6f94780353f8aec3d8bd8d77072075",
   },
 
   {
