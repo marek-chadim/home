@@ -13,6 +13,7 @@ import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
 
 import "./styles.css";
+import { title } from "process";
 
 /**
  * This object represents your information. The project is set so that you
@@ -23,10 +24,14 @@ import "./styles.css";
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
-
 const siteProps = {
   name: "Marek Chadim",
-  title: <a href="https://github.com/marek-chadim/home/blob/main/CV.pdf">Curriculum Vitae</a>,
+  title:  <a
+  href={`https://github.com/marek-chadim/home/blob/main/CV.pdf`}
+  target="_blank"
+  rel="noopener noreferrer">
+  {"Curriculum Vitae"}
+  </a>,
   email: "marek.chadim@iies.su.se",
   gitHub: "marek-chadim",
   linkedIn: "marek-chadim",
