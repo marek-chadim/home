@@ -24,7 +24,7 @@ const imageAltText = "Stockholm";
  * Short description that expands on your title on the Home component.
  */
 const description =
-  "I’m second year Economics MSc student at the Stockholm School of Economics passionate about econometrics, statistics, machine learning, and research on topics in applied microeconomics and related fields.";
+  "I’m second year Economics MSc student at the Stockholm School of Economics interested in econometrics, statistics, machine learning, and applied microeconomic research.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,

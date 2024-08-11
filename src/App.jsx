@@ -23,11 +23,13 @@ import "./styles.css";
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
+
 const siteProps = {
   name: "Marek Chadim",
+  title: <a href="https://github.com/marek-chadim/home/blob/main/CV.pdf">Curriculum Vitae</a>,
   email: "marek.chadim@iies.su.se",
   gitHub: "marek-chadim",
-  linkedIn: "marek-chadim",
+  linkedIn: "marek-chadim"
 };
 
 const primaryColor = "#4E567E";

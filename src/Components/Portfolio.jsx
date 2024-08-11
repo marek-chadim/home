@@ -38,7 +38,7 @@ const projectList = [
   },
 
   {
-    title: "PhD Econometrics Course with Stata and R",
+    title: "PhD Econometrics with Stata and R",
     description: "Coursework from first year PhD Econometrics sequence at Stockholm University.",
     url: "https://github.com/marek-chadim/Coursework/tree/main/PhD",
   },
@@ -53,19 +53,19 @@ const projectList = [
   {
     title: "Coursera Data Science Specialization",
     description:
-      "Tools covering the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Johns Hopkins University.",
+      "Tools covering the entire data science pipeline by Roger Peng, Jeff Leek and Brian Caffo, Dep. of Biostatistics Johns Hopkins University.",
     url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
   },
 
   {
     title: "DataCamp Data Analyst with R",
-    description: "Importing, cleaning, manipulating, and visualizing data.",
+    description: "Career track focused on importing, cleaning, manipulating, and visualizing data.",
     url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
   },
 
   {
     title: "DataCamp Julia Fundamentals",
-    description: "Intermediate Julia programming and data manipulation.",
+    description: "Track in intermediate Julia programming.",
     url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/108e795acb6f94780353f8aec3d8bd8d77072075",
   },
 
@@ -77,7 +77,7 @@ const projectList = [
 
   {
     title: "Elements of AI, University of Helsinki",
-    description: "What can (and can’t) be done with AI, and how to start creating AI methods.",
+    description: "Introduction to AI combining theory with practical exercises.",
     url: "https://certificates.mooc.fi/validate/wspeomm2ier",
   },
 ];
