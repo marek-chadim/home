@@ -27088,16 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Marek Chadim",
-    title: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-        href: `https://github.com/marek-chadim/home/blob/main/CV.pdf`,
-        target: "_blank",
-        rel: "noopener noreferrer",
-        children: "Curriculum Vitae"
-    }, void 0, false, {
-        fileName: "src/App.jsx",
-        lineNumber: 29,
-        columnNumber: 5
-    }, undefined),
+    title: "Economics MSc Student",
     email: "marek.chadim@iies.su.se",
     gitHub: "marek-chadim",
     linkedIn: "marek-chadim"
@@ -27110,7 +27101,7 @@ const App = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 48,
+                lineNumber: 40,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDefault.default), {
@@ -27118,17 +27109,17 @@ const App = ()=>{
                 title: siteProps.title
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 49,
+                lineNumber: 41,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 50,
+                lineNumber: 42,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _portfolioDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 51,
+                lineNumber: 43,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {
@@ -27137,13 +27128,13 @@ const App = ()=>{
                 secondaryColor: secondaryColor
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 52,
+                lineNumber: 44,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/App.jsx",
-        lineNumber: 47,
+        lineNumber: 39,
         columnNumber: 5
     }, undefined);
 };
@@ -27192,8 +27183,10 @@ const imageAltText = "Stockholm";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Bc Economic Theory @ IES Charles University in Prague + Exchange Econometrics & Operations Research @ SBE Maastricht University",
-    "MSc Economics @ SSE + PhD Econometrics @ Stockholm University, Upcoming Exchange Statistics and Machine Learning @ Universit\xe0 Bocconi ", 
+    "Bc Economic Theory @ IES Charles University in Prague",
+    "Exchange Econometrics & Operations Research @ SBE Maastricht University",
+    "MSc Economics @ SSE + PhD Econometrics @ Stockholm University",
+    "Upcoming Exchange Decision and Computing Sciences @ Universit\xe0 Bocconi", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -27210,10 +27203,11 @@ const imageAltText = "Stockholm";
             children: "Ingvild Alm\xe5s"
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
-            lineNumber: 46,
+            lineNumber: 48,
             columnNumber: 5
         }, undefined),
-        " on analyzing a large dataset from the",
+        " ",
+        "on analyzing a large dataset from the",
         " ",
         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
             href: "https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/",
@@ -27222,7 +27216,7 @@ const imageAltText = "Stockholm";
             children: "Kizazi Kijacho"
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
-            lineNumber: 48,
+            lineNumber: 52,
             columnNumber: 5
         }, undefined),
         " ",
@@ -27230,7 +27224,7 @@ const imageAltText = "Stockholm";
     ]
 }, void 0, true, {
     fileName: "src/Components/About.jsx",
-    lineNumber: 43,
+    lineNumber: 45,
     columnNumber: 3
 }, undefined);
 const About = ()=>{
@@ -27244,7 +27238,7 @@ const About = ()=>{
                 alt: imageAltText
             }, void 0, false, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 57,
+                lineNumber: 65,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27260,7 +27254,7 @@ const About = ()=>{
                         children: "About Myself"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 67,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27268,12 +27262,12 @@ const About = ()=>{
                         children: description
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 68,
+                        lineNumber: 76,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 69,
+                        lineNumber: 77,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -27288,17 +27282,17 @@ const About = ()=>{
                                 children: skill
                             }, skill, false, {
                                 fileName: "src/Components/About.jsx",
-                                lineNumber: 80,
+                                lineNumber: 88,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 70,
+                        lineNumber: 78,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 83,
+                        lineNumber: 91,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27308,19 +27302,19 @@ const About = ()=>{
                         children: detailOrQuote
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 84,
+                        lineNumber: 92,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 58,
+                lineNumber: 66,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/About.jsx",
-        lineNumber: 56,
+        lineNumber: 64,
         columnNumber: 5
     }, undefined);
 };
