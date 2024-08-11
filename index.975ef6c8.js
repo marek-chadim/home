@@ -27078,6 +27078,7 @@ var _homeDefault = parcelHelpers.interopDefault(_home);
 var _portfolio = require("./Components/Portfolio");
 var _portfolioDefault = parcelHelpers.interopDefault(_portfolio);
 var _stylesCss = require("./styles.css");
+var _process = require("process");
 /**
  * This object represents your information. The project is set so that you
  * only need to update these here, and values are passed a properties to the
@@ -27089,12 +27090,14 @@ var _stylesCss = require("./styles.css");
  */ const siteProps = {
     name: "Marek Chadim",
     title: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-        href: "https://github.com/marek-chadim/home/blob/main/CV.pdf",
+        href: `https://github.com/marek-chadim/home/blob/main/CV.pdf`,
+        target: "_blank",
+        rel: "noopener noreferrer",
         children: "Curriculum Vitae"
     }, void 0, false, {
         fileName: "src/App.jsx",
         lineNumber: 29,
-        columnNumber: 10
+        columnNumber: 11
     }, undefined),
     email: "marek.chadim@iies.su.se",
     gitHub: "marek-chadim",
@@ -27108,7 +27111,7 @@ const App = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 41,
+                lineNumber: 46,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDefault.default), {
@@ -27116,17 +27119,17 @@ const App = ()=>{
                 title: siteProps.title
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 42,
+                lineNumber: 47,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 43,
+                lineNumber: 48,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _portfolioDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 44,
+                lineNumber: 49,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {
@@ -27135,13 +27138,13 @@ const App = ()=>{
                 secondaryColor: secondaryColor
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 45,
+                lineNumber: 50,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/App.jsx",
-        lineNumber: 40,
+        lineNumber: 45,
         columnNumber: 5
     }, undefined);
 };
@@ -27155,7 +27158,7 @@ $RefreshReg$(_c, "App");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Components/About":"kouZu","./Components/Footer":"7GWgX","./Components/Header":"9Dt2F","./Components/Home":"jIEVO","./Components/Portfolio":"lCaEt","./styles.css":"lW6qc","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"kouZu":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Components/About":"kouZu","./Components/Footer":"7GWgX","./Components/Header":"9Dt2F","./Components/Home":"jIEVO","./Components/Portfolio":"lCaEt","./styles.css":"lW6qc","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","process":"d5jf4"}],"kouZu":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$17a8 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -27203,6 +27206,8 @@ const imageAltText = "Stockholm";
         " ",
         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
             href: "http://perseus.iies.su.se/~ialm/",
+            target: "_blank",
+            rel: "noopener noreferrer",
             children: "Ingvild Alm\xe5s"
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
@@ -27213,6 +27218,8 @@ const imageAltText = "Stockholm";
         " ",
         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
             href: "https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/",
+            target: "_blank",
+            rel: "noopener noreferrer",
             children: "Kizazi Kijacho"
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
