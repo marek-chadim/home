@@ -26,11 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Marek Chadim",
   title: (
-    <a
-      href={`https://github.com/marek-chadim/home/blob/main/CV.pdf`}
-      target="_blank"
-      rel="noopener noreferrer"
-    >
+    <a href={`./CV.pdf`} target="_blank" rel="noopener noreferrer">
       {"Curriculum Vitae"}
     </a>
   ),
