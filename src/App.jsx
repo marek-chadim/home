@@ -13,7 +13,6 @@ import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
 
 import "./styles.css";
-import { title } from "process";
 
 /**
  * This object represents your information. The project is set so that you
@@ -26,12 +25,15 @@ import { title } from "process";
  */
 const siteProps = {
   name: "Marek Chadim",
-  title:  <a
-  href={`https://github.com/marek-chadim/home/blob/main/CV.pdf`}
-  target="_blank"
-  rel="noopener noreferrer">
-  {"Curriculum Vitae"}
-  </a>,
+  title: (
+    <a
+      href={`https://github.com/marek-chadim/home/blob/main/CV.pdf`}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      {"Curriculum Vitae"}
+    </a>
+  ),
   email: "marek.chadim@iies.su.se",
   gitHub: "marek-chadim",
   linkedIn: "marek-chadim",
