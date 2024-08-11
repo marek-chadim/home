@@ -25,11 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Marek Chadim",
-  title: (
-    <a href={`./CV.pdf`} target="_blank" rel="noopener noreferrer">
-      {"Curriculum Vitae"}
-    </a>
-  ),
+  title: "Economics MSc Student",
   email: "marek.chadim@iies.su.se",
   gitHub: "marek-chadim",
   linkedIn: "marek-chadim",
