@@ -27088,6 +27088,14 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Marek Chadim",
+    title: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+        href: "https://github.com/marek-chadim/home/blob/main/CV.pdf",
+        children: "Curriculum Vitae"
+    }, void 0, false, {
+        fileName: "src/App.jsx",
+        lineNumber: 29,
+        columnNumber: 10
+    }, undefined),
     email: "marek.chadim@iies.su.se",
     gitHub: "marek-chadim",
     linkedIn: "marek-chadim"
@@ -27100,7 +27108,7 @@ const App = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 39,
+                lineNumber: 41,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDefault.default), {
@@ -27108,17 +27116,17 @@ const App = ()=>{
                 title: siteProps.title
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 40,
+                lineNumber: 42,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 41,
+                lineNumber: 43,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _portfolioDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 42,
+                lineNumber: 44,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {
@@ -27127,13 +27135,13 @@ const App = ()=>{
                 secondaryColor: secondaryColor
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 43,
+                lineNumber: 45,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/App.jsx",
-        lineNumber: 38,
+        lineNumber: 40,
         columnNumber: 5
     }, undefined);
 };
@@ -27177,7 +27185,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "I’m second year Economics MSc student at the Stockholm School of Economics passionate about econometrics, statistics, machine learning, and research on topics in applied microeconomics and related fields.";
+ */ const description = "I’m second year Economics MSc student at the Stockholm School of Economics interested in econometrics, statistics, machine learning, and applied microeconomic research.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28755,7 +28763,7 @@ const imageAltText = "The Economist as Plumber";
         url: "https://dspace.cuni.cz/handle/20.500.11956/184831"
     },
     {
-        title: "PhD Econometrics Course with Stata and R",
+        title: "PhD Econometrics with Stata and R",
         description: "Coursework from first year PhD Econometrics sequence at Stockholm University.",
         url: "https://github.com/marek-chadim/Coursework/tree/main/PhD"
     },
@@ -28766,18 +28774,18 @@ const imageAltText = "The Economist as Plumber";
     },
     {
         title: "Coursera Data Science Specialization",
-        description: "Tools covering the entire data science pipeline by Roger D. Peng, Jeff Leek, Brian Caffo, Johns Hopkins University.",
+        description: "Tools covering the entire data science pipeline by Roger Peng, Jeff Leek and Brian Caffo, Dep. of Biostatistics Johns Hopkins University.",
         url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881"
     },
     {
-        title: "DataCamp Julia Fundamentals",
-        description: "Intermediate Julia programming and data manipulation.",
-        url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/108e795acb6f94780353f8aec3d8bd8d77072075"
+        title: "DataCamp Data Analyst with R",
+        description: "Career track focused on importing, cleaning, manipulating, and visualizing data.",
+        url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29"
     },
     {
-        title: "DataCamp Data Analyst with R",
-        description: "Importing, cleaning, manipulating, and visualizing data.",
-        url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29"
+        title: "DataCamp Julia Fundamentals",
+        description: "Track in intermediate Julia programming.",
+        url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/108e795acb6f94780353f8aec3d8bd8d77072075"
     },
     {
         title: "Stanford University's Code in Place 2023",
@@ -28786,7 +28794,7 @@ const imageAltText = "The Economist as Plumber";
     },
     {
         title: "Elements of AI, University of Helsinki",
-        description: "What can (and can’t) be done with AI, and how to start creating AI methods.",
+        description: "Introduction to AI combining theory with practical exercises.",
         url: "https://certificates.mooc.fi/validate/wspeomm2ier"
     }, 
 ];
