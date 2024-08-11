@@ -29,7 +29,7 @@ const siteProps = {
   title: <a href="https://github.com/marek-chadim/home/blob/main/CV.pdf">Curriculum Vitae</a>,
   email: "marek.chadim@iies.su.se",
   gitHub: "marek-chadim",
-  linkedIn: "marek-chadim"
+  linkedIn: "marek-chadim",
 };
 
 const primaryColor = "#4E567E";
