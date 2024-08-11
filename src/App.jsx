@@ -29,7 +29,7 @@ const siteProps = {
   gitHub: "marek-chadim",
   linkedIn: "marek-chadim",
   title: (
-    <a href="https://github.com/marek-chadim/home/CV.pdf" target="_blank" rel="noopener noreferrer">
+    <a href="https://docs.google.com/viewer?url=${https://github.com/marek-chadim/home/CV.pdf}" target="_blank" rel="noopener noreferrer">
       Curriculum Vitae
     </a>
   ),
