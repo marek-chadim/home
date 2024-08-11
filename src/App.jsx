@@ -25,10 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Marek Chadim",
-  title: "Economics MSc Student",
   email: "marek.chadim@iies.su.se",
   gitHub: "marek-chadim",
   linkedIn: "marek-chadim",
+  title: (
+    <a href="https://github.com/marek-chadim/home/CV.pdf" target="_blank" rel="noopener noreferrer">
+      Curriculum Vitae
+    </a>
+  ),
 };
 
 const primaryColor = "#4E567E";
