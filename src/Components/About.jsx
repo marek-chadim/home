@@ -41,7 +41,14 @@ const skillsList = [
  */
 const detailOrQuote = (
   <div>
-    I am currently working as a research assistant at the Institute for International Economic Studies, where I work with Professor <a href="http://perseus.iies.su.se/~ialm/">Ingvild Almås</a> on analyzing a large dataset from the <a href="https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/">Kizazi Kijacho</a> early childhood development project.
+    I am currently working as a research assistant at the Institute for International Economic
+    Studies, where I work with Professor{" "}
+    <a href="http://perseus.iies.su.se/~ialm/">Ingvild Almås</a> on analyzing a large dataset from
+    the{" "}
+    <a href="https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/">
+      Kizazi Kijacho
+    </a>{" "}
+    early childhood development project.
   </div>
 );
 const About = () => {
