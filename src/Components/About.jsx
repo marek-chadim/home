@@ -39,8 +39,11 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am currently working as a research assistant at the Institute for International Economic Studies, where I work with Professor Ingvild Almås on analyzing a large longitudinal cohort dataset using state-of-the art methods to measure child development.";
+const detailOrQuote = (
+  <div>
+    I am currently working as a research assistant at the Institute for International Economic Studies, where I work with Professor <a href="http://perseus.iies.su.se/~ialm/">Ingvild Almås</a> on analyzing a large dataset from the <a href="https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/">Kizazi Kijacho</a> early childhood development project.
+  </div>
+);
 const About = () => {
   return (
     <section className="padding" id="about">
