@@ -30,7 +30,7 @@ const siteProps = {
   linkedIn: "marek-chadim",
   title: (
     <a
-      href="https://docs.google.com/viewer?url=${https://github.com/marek-chadim/home/CV.pdf}"
+      href="https://www.dropbox.com/scl/fi/hd96ce3ow3vgx79rzkca7/CV.pdf?rlkey=l2vai96n9hkqcq4gqogijrdh4&st=so3uts25&dl=0"
       target="_blank"
       rel="noopener noreferrer"
     >
