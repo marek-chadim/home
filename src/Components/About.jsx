@@ -30,8 +30,10 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Bc Economics @ IES Charles University in Prague", "Bc Econometrics & Operations Research @ SBE Maastricht University",
-  "MSc Economics @ SSE + PhD Econometrics @ Stockholm University", "MSc Decision & Computer Science @ Università Bocconi Milano",
+  "Bc Economics @ IES Charles University in Prague",
+  "Bc Econometrics & Operations Research @ SBE Maastricht University",
+  "MSc Economics @ SSE + PhD Econometrics @ Stockholm University",
+  "MSc Decision & Computing Sciences @ Bocconi University",
 ];
 
 /**
