@@ -33,7 +33,7 @@ const skillsList = [
   "Bc Economics @ IES Charles University in Prague",
   "Bc Econometrics & Operations Research @ SBE Maastricht University",
   "MSc Economics @ SSE + PhD Econometrics @ Stockholm University",
-  "MSc Decision & Computer Sciences @ Università Commerciale Luigi Bocconi",
+  "MSc Decision & Computer Sciences @ Bocconi University Milan", 
 ];
 
 /**
