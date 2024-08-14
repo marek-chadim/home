@@ -27192,10 +27192,10 @@ const imageAltText = "Stockholm";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Bc Economic Theory @ IES Charles University in Prague",
-    "Exchange Econometrics & Operations Research @ SBE Maastricht University",
+    "Bc Economics @ IES Charles University in Prague",
+    "Bc Econometrics & Operations Research @ SBE Maastricht University",
     "MSc Economics @ SSE + PhD Econometrics @ Stockholm University",
-    "Upcoming Exchange Decision and Computing Sciences @ Universit\xe0 Bocconi", 
+    "MSc Decision & Computer Science @ Universit\xe0 Bocconi Milano", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -27212,7 +27212,7 @@ const imageAltText = "Stockholm";
             children: "Ingvild Alm\xe5s"
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
-            lineNumber: 48,
+            lineNumber: 46,
             columnNumber: 5
         }, undefined),
         " ",
@@ -27225,7 +27225,7 @@ const imageAltText = "Stockholm";
             children: "Kizazi Kijacho"
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
-            lineNumber: 52,
+            lineNumber: 50,
             columnNumber: 5
         }, undefined),
         " ",
@@ -27233,7 +27233,7 @@ const imageAltText = "Stockholm";
     ]
 }, void 0, true, {
     fileName: "src/Components/About.jsx",
-    lineNumber: 45,
+    lineNumber: 43,
     columnNumber: 3
 }, undefined);
 const About = ()=>{
@@ -27247,7 +27247,7 @@ const About = ()=>{
                 alt: imageAltText
             }, void 0, false, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 65,
+                lineNumber: 63,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27263,7 +27263,7 @@ const About = ()=>{
                         children: "About Myself"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 75,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27271,12 +27271,12 @@ const About = ()=>{
                         children: description
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 76,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 77,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -27291,17 +27291,17 @@ const About = ()=>{
                                 children: skill
                             }, skill, false, {
                                 fileName: "src/Components/About.jsx",
-                                lineNumber: 88,
+                                lineNumber: 86,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 78,
+                        lineNumber: 76,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 91,
+                        lineNumber: 89,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27311,19 +27311,19 @@ const About = ()=>{
                         children: detailOrQuote
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 92,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 66,
+                lineNumber: 64,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/About.jsx",
-        lineNumber: 64,
+        lineNumber: 62,
         columnNumber: 5
     }, undefined);
 };
