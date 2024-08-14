@@ -30,8 +30,10 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Bc Economic Theory @ IES Charles University in Prague + Exchange Econometrics & Operations Research @ SBE Maastricht University",
-  "MSc Economics @ SSE + PhD Econometrics @ Stockholm University, Upcoming Exchange Statistics and Machine Learning @ Università Bocconi ",
+  "Bc Economic Theory @ IES Charles University in Prague",
+  "Exchange Econometrics & Operations Research @ SBE Maastricht University",
+  "MSc Economics @ SSE + PhD Econometrics @ Stockholm University",
+  "Upcoming Exchange Decision and Computing Sciences @ Università Bocconi",
 ];
 
 /**
@@ -43,9 +45,15 @@ const detailOrQuote = (
   <div>
     I am currently working as a research assistant at the Institute for International Economic
     Studies, where I work with Professor{" "}
-    <a href="http://perseus.iies.su.se/~ialm/" target="_blank" rel="noopener noreferrer">Ingvild Almås</a> on analyzing a large dataset from
-    the{" "}
-    <a href="https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/" target="_blank" rel="noopener noreferrer">
+    <a href="http://perseus.iies.su.se/~ialm/" target="_blank" rel="noopener noreferrer">
+      Ingvild Almås
+    </a>{" "}
+    on analyzing a large dataset from the{" "}
+    <a
+      href="https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
       Kizazi Kijacho
     </a>{" "}
     early childhood development project.
