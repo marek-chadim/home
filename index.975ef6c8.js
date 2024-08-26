@@ -27091,16 +27091,7 @@ var _stylesCss = require("./styles.css");
     email: "marek.chadim@iies.su.se",
     gitHub: "marek-chadim",
     linkedIn: "marek-chadim",
-    title: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-        href: "https://www.dropbox.com/scl/fi/hd96ce3ow3vgx79rzkca7/CV.pdf?rlkey=l2vai96n9hkqcq4gqogijrdh4&st=so3uts25&dl=0",
-        target: "_blank",
-        rel: "noopener noreferrer",
-        children: "Curriculum Vitae"
-    }, void 0, false, {
-        fileName: "src/App.jsx",
-        lineNumber: 32,
-        columnNumber: 5
-    }, undefined)
+    title: "MSc in Economics Student"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -27110,7 +27101,7 @@ const App = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 48,
+                lineNumber: 40,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDefault.default), {
@@ -27118,17 +27109,17 @@ const App = ()=>{
                 title: siteProps.title
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 49,
+                lineNumber: 41,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 50,
+                lineNumber: 42,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _portfolioDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 51,
+                lineNumber: 43,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {
@@ -27137,13 +27128,13 @@ const App = ()=>{
                 secondaryColor: secondaryColor
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 52,
+                lineNumber: 44,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/App.jsx",
-        lineNumber: 47,
+        lineNumber: 39,
         columnNumber: 5
     }, undefined);
 };
