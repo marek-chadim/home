@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     gitHub: "marek-chadim",
     linkedIn: "marek-chadim",
     title: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-        href: "https://www.dropbox.com/scl/fi/qcamker6c2t7oj1jwiih8/CV.pdf?rlkey=ku5baio4coxqdwqho8aer3qjg&st=tfy6945n&dl=0",
+        href: "https://www.dropbox.com/scl/fi/8b918556zot34umk1p30v/CV.pdf?rlkey=ixxxnpgsz6xzdpu7a24ehfnw8&st=13jwgbnn&dl=0",
         target: "_blank",
         rel: "noopener noreferrer",
         children: "Curriculum Vitae"
@@ -28798,12 +28798,12 @@ const imageAltText = "The Economist as Plumber";
     {
         title: "Markups and Public Procurement",
         description: "Bachelor's Thesis analyzing the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
-        url: "https://dspace.cuni.cz/handle/20.500.11956/184831"
+        url: "https://github.com/marek-chadim/Markups-and-Public-Procurement"
     },
     {
         title: "PhD Econometrics with Stata and R",
         description: "Coursework from first year PhD Econometrics sequence at Stockholm University.",
-        url: "https://github.com/marek-chadim/Coursework/tree/main/PhD"
+        url: "https://github.com/marek-chadim/Mastering-Metrics/tree/main/coursework/PhD"
     },
     {
         title: "Coursera Machine Learning Specialization",
