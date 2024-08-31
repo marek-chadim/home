@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     gitHub: "marek-chadim",
     linkedIn: "marek-chadim",
     title: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-        href: "https://www.dropbox.com/scl/fi/0tmkq1u2qpg3t911gpxsg/CV.pdf?rlkey=ig4o40t561djo4fqqwj1vbp6s&st=jist78y4&dl=0",
+        href: "https://www.dropbox.com/scl/fi/0tmkq1u2qpg3t911gpxsg/CV.pdf?rlkey=ig4o40t561djo4fqqwj1vbp6s&st=owzmudyw&dl=0",
         target: "_blank",
         rel: "noopener noreferrer",
         children: "Curriculum Vitae"
