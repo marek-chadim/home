@@ -34,13 +34,13 @@ const projectList = [
     title: "Markups and Public Procurement",
     description:
       "Bachelor's Thesis analyzing the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
-    url: "https://dspace.cuni.cz/handle/20.500.11956/184831",
+    url: "https://github.com/marek-chadim/Markups-and-Public-Procurement",
   },
 
   {
     title: "PhD Econometrics with Stata and R",
     description: "Coursework from first year PhD Econometrics sequence at Stockholm University.",
-    url: "https://github.com/marek-chadim/Coursework/tree/main/PhD",
+    url: "https://github.com/marek-chadim/Mastering-Metrics/tree/main/coursework/PhD",
   },
 
   {
