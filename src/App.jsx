@@ -30,7 +30,7 @@ const siteProps = {
   linkedIn: "marek-chadim",
   title: (
     <a
-      href="https://www.dropbox.com/scl/fi/8b918556zot34umk1p30v/CV.pdf?rlkey=ixxxnpgsz6xzdpu7a24ehfnw8&st=13jwgbnn&dl=0"
+      href="https://www.dropbox.com/scl/fi/vgedlrt3zzu9il4l19l4u/Econ_PhD_Guide.pdf?rlkey=pjz71puyqo4m0piha08vjcrva&st=f08i98hg&dl=0"
       target="_blank"
       rel="noopener noreferrer"
     >
