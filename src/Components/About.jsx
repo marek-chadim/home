@@ -30,8 +30,8 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Bachelor of Economics @ Institute of Economic Studies, Charles University Prague (CZ) & School of Business and Economics, Maastricht University (NL)",
-  "Master of Science in Economics @ Stockholm School of Economics/PhD coursework @ Stockholm University (SE) & Bocconi University (IT)",
+  "Bachelor of Economics @ Institute of Economic Studies, Charles University Prague (CZ) & Maastricht University (NL)",
+  "Master of Science in Economics @ Stockholm School of Economics/Stockholm University (SE) & Bocconi University (IT)",
 ];
 
 /**
