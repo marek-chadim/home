@@ -27187,13 +27187,13 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "I am an MSc Economics student with an interest in research designs for assessing the impact of interventions and policies, as well as econometric analysis in applied microeconomics such as education, health, and workforce research.";
+ */ const description = "I am an MSc in Economics student with an interest in research designs for assessing the impact of interventions and policies, as well as econometric analysis in applied microeconomics such as education, health, and workforce research.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Bachelor of Economics @ Institute of Economic Studies, Charles University Prague (CZ) & Maastricht University (NL)",
-    "Master of Science in Economics @ Stockholm School of Economics/Stockholm University (SE) & Bocconi University (IT)", 
+    "Bachelor of Economics @ Institute of Economic Studies, Charles University Prague (CZ) & School of Business and Economics, Maastricht University (NL)",
+    "Master of Science in Economics @ Stockholm School of Economics/PhD coursework @ Stockholm University (SE) & Bocconi University (IT)", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -27210,7 +27210,7 @@ const imageAltText = "Stockholm";
             children: "Ingvild Alm\xe5s"
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
-            lineNumber: 47,
+            lineNumber: 46,
             columnNumber: 5
         }, undefined),
         " ",
@@ -27223,7 +27223,7 @@ const imageAltText = "Stockholm";
             children: "Kizazi Kijacho"
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
-            lineNumber: 51,
+            lineNumber: 50,
             columnNumber: 5
         }, undefined),
         " ",
@@ -27231,7 +27231,7 @@ const imageAltText = "Stockholm";
     ]
 }, void 0, true, {
     fileName: "src/Components/About.jsx",
-    lineNumber: 44,
+    lineNumber: 43,
     columnNumber: 3
 }, undefined);
 const About = ()=>{
@@ -27245,7 +27245,7 @@ const About = ()=>{
                 alt: imageAltText
             }, void 0, false, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 64,
+                lineNumber: 63,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27261,7 +27261,7 @@ const About = ()=>{
                         children: "About Myself"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 74,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27269,12 +27269,12 @@ const About = ()=>{
                         children: description
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 75,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 76,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -27289,17 +27289,17 @@ const About = ()=>{
                                 children: skill
                             }, skill, false, {
                                 fileName: "src/Components/About.jsx",
-                                lineNumber: 87,
+                                lineNumber: 86,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 77,
+                        lineNumber: 76,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 90,
+                        lineNumber: 89,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27309,19 +27309,19 @@ const About = ()=>{
                         children: detailOrQuote
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 91,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 65,
+                lineNumber: 64,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/About.jsx",
-        lineNumber: 63,
+        lineNumber: 62,
         columnNumber: 5
     }, undefined);
 };
