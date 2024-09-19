@@ -24,14 +24,14 @@ const imageAltText = "Stockholm";
  * Short description that expands on your title on the Home component.
  */
 const description =
-  "I am an MSc in Economics student with an interest in research designs for assessing the impact of interventions and policies, as well as econometric analysis in applied microeconomics such as education, health, and workforce research.";
+  "I am an MSc Economics student focused on econometrics and applied microeconomics. I am interested in research that helps create and improve social policies for education, healthcare, and workforce issues.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
   "Bachelor of Economics @ Institute of Economic Studies, Charles University Prague & Maastricht University",
-  "MSc in Economics @ Stockholm School of Economics & Bocconi University + PhD coursework @ Stockholm University",
+  "MSc in Economics @ Stockholm School of Economics/Stockholm University & Bocconi University",
 ];
 
 /**
