@@ -27187,7 +27187,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "I’m second year Economics MSc student at the Stockholm School of Economics interested in econometrics, statistics, machine learning, and applied microeconomic research.";
+ */ const description = "I am an MSc Economics student with an interest in research designs for assessing the impact of interventions and policies, as well as econometric analysis in applied microeconomics such as education, health, and workforce research.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
