@@ -27192,8 +27192,8 @@ const imageAltText = "Stockholm";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Bachelor of Economics @ Institute of Economic Studies, Charles University Prague & Maastricht University",
-    "MSc in Economics @ Stockholm School of Economics/Stockholm University & Bocconi University", 
+    "Bachelor of Economics @ Institute of Economic Studies, Charles University Prague & Econometrics @ Maastricht University",
+    "MSc in Economics @ Stockholm School of Economics + PhD Econometrics @ Stockholm University & Data Science @ Bocconi University", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
