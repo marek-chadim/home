@@ -27187,7 +27187,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "I am an MSc Economics student focused on econometrics and applied microeconomics. I am interested in research that helps create and improve social policies for education, healthcare, and workforce issues.";
+ */ const description = "I am an MSc Economics student focused on econometrics and applied microeconomics.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
