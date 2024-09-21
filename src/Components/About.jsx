@@ -31,7 +31,7 @@ const description =
  */
 const skillsList = [
   "Bachelor of Economics @ Institute of Economic Studies, Charles University Prague & Econometrics @ Maastricht University",
-  "MSc in Economics @ Stockholm School of Economics + PhD Econometrics @ Stockholm University & Data Science @ Bocconi University",
+  "MSc in Economics @ Stockholm School of Economics & Data Science/AI @ Bocconi University + PhD Econometrics @ Stockholm University",
 ];
 
 /**
@@ -46,15 +46,14 @@ const detailOrQuote = (
     <a href="http://perseus.iies.su.se/~ialm/" target="_blank" rel="noopener noreferrer">
       Ingvild Almås
     </a>{" "}
-    on analyzing a large dataset from the{" "}
+    and the{" "}
     <a
       href="https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/"
       target="_blank"
       rel="noopener noreferrer"
     >
-      Kizazi Kijacho
+      Kizazi Kijacho research team.
     </a>{" "}
-    early childhood development project.
   </div>
 );
 const About = () => {
