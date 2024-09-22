@@ -34,7 +34,7 @@ const siteProps = {
       target="_blank"
       rel="noopener noreferrer"
     >
-      Curriculum Vitae
+      Curriculum Vitæ
     </a>
   ),
 };
