@@ -27095,7 +27095,7 @@ var _stylesCss = require("./styles.css");
         href: "https://www.dropbox.com/scl/fi/0tmkq1u2qpg3t911gpxsg/CV.pdf?rlkey=ig4o40t561djo4fqqwj1vbp6s&st=owzmudyw&dl=0",
         target: "_blank",
         rel: "noopener noreferrer",
-        children: "Curriculum Vitae"
+        children: "Curriculum Vit\xe6"
     }, void 0, false, {
         fileName: "src/App.jsx",
         lineNumber: 32,
