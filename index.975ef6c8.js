@@ -28798,17 +28798,17 @@ const imageAltText = "The Economist as Plumber";
         url: "https://github.com/marek-chadim/Markups-and-Public-Procurement"
     },
     {
-        title: "Econometrics",
-        description: "PhD Econometrics sequence at Stockholm University.",
+        title: "Econometrics and Causal Inference",
+        description: "PhD Econometrics sequence at Stockholm University",
         url: "https://github.com/marek-chadim/Mastering-Metrics/tree/main/coursework/PhD"
     },
     {
-        title: "Empirical Research",
-        description: "Applied economics PhD course at Stockholm University.",
+        title: "Research Methodology",
+        description: "Empirical economics PhD course at Stockholm University",
         url: "https://github.com/marek-chadim/Applied-Economics"
     },
     {
-        title: "Numerical Methods",
+        title: "Structural Model Solving and Simulation",
         description: "Graduate Computational Economics with Julia and MATLAB",
         url: "https://github.com/marek-chadim/Computational-economics"
     },
