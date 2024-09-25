@@ -41,8 +41,8 @@ const skillsList = [
  */
 const detailOrQuote = (
   <div>
-    I am also a research assistant at the Institute for International Economic Studies, where I work
-    with Professor{" "}
+    I currently writing my MSc Thesis and work part-time as a research assistant at the Institute
+    for International Economic Studies, where I work with Professor{" "}
     <a href="http://perseus.iies.su.se/~ialm/" target="_blank" rel="noopener noreferrer">
       Ingvild Almås
     </a>{" "}

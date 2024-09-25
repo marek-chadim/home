@@ -31,54 +31,38 @@ const imageAltText = "The Economist as Plumber";
  */
 const projectList = [
   {
-    title: "Markups and Public Procurement",
+    title: "Writing",
     description:
-      "Bachelor's Thesis analyzing the relationship between engagement in public procurement and markups charged by firms in the Czech construction sector.",
+      "Causal Inference in Panel Data: Comparing Unconfoundedness and Parallel Trends with an Application to Markup Premia in Public Procurement",
     url: "https://github.com/marek-chadim/Markups-and-Public-Procurement",
   },
 
   {
-    title: "PhD Econometrics with Stata and R",
-    description: "Coursework from first year PhD Econometrics sequence at Stockholm University.",
+    title: "Econometrics",
+    description: "PhD Econometrics sequence at Stockholm University.",
     url: "https://github.com/marek-chadim/Mastering-Metrics/tree/main/coursework/PhD",
   },
-
   {
-    title: "Coursera Machine Learning Specialization",
-    description:
-      "Best practices for model building and applying machine learning techniques by Andrew Ng, Stanford University.",
-    url: "https://coursera.org/share/319c2af05932c9a8a671409ac26a7c91",
+    title: "Empirical Research",
+    description: "Applied economics PhD course at Stockholm University.",
+    url: "https://github.com/marek-chadim/Applied-Economics",
   },
-
   {
-    title: "Coursera Data Science Specialization",
+    title: "Numerical Methods",
+    description: "Graduate Computational Economics with Julia and MATLAB",
+    url: "https://github.com/marek-chadim/Computational-economics",
+  },
+  {
+    title: "Data Science and Machine Learning",
     description:
-      "Tools covering the entire data science pipeline by Roger Peng, Jeff Leek and Brian Caffo, Dep. of Biostatistics Johns Hopkins University.",
+      "Coursera Specialization by Roger Peng, Jeff Leek and Brian Caffo; and by Andrew Ng.",
     url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
   },
 
   {
-    title: "DataCamp Data Analyst with R",
-    description: "Career track focused on importing, cleaning, manipulating, and visualizing data.",
+    title: "Data Analystics and Visualization",
+    description: "DataCamp Data Analyst Career Track Certification.",
     url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
-  },
-
-  {
-    title: "DataCamp Julia Fundamentals",
-    description: "Track in intermediate Julia programming.",
-    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/108e795acb6f94780353f8aec3d8bd8d77072075",
-  },
-
-  {
-    title: "Stanford University's Code in Place 2023",
-    description: "Course covering material from CS106A: Programming Methodologies.",
-    url: "https://codeinplace.stanford.edu/cip3/certificate/1bcm36",
-  },
-
-  {
-    title: "Elements of AI, University of Helsinki",
-    description: "Introduction to AI combining theory with practical exercises.",
-    url: "https://certificates.mooc.fi/validate/wspeomm2ier",
   },
 ];
 
