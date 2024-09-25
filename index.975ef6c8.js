@@ -27201,7 +27201,7 @@ const imageAltText = "Stockholm";
  * about you on a professional level.
  */ const detailOrQuote = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
     children: [
-        "I currently writing my MSc Thesis and work part-time as a research assistant at the Institute for International Economic Studies, where I work with Professor",
+        "I am currently writing my MSc Thesis and work part-time as a research assistant at the Institute for International Economic Studies, where I work with Professor",
         " ",
         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
             href: "http://perseus.iies.su.se/~ialm/",
