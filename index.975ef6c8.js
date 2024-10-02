@@ -28803,18 +28803,18 @@ const imageAltText = "The Economist as Plumber";
         url: "https://github.com/marek-chadim/Mastering-Metrics/tree/main/coursework/PhD"
     },
     {
-        title: "Research Methodology",
-        description: "Empirical economics PhD course at Stockholm University",
+        title: "Empirical Research and Machine Learning",
+        description: "Applied economics PhD course at Stockholm University",
         url: "https://github.com/marek-chadim/Applied-Economics"
     },
     {
-        title: "Structural Model Solving and Simulation",
+        title: "Numerical Methods",
         description: "Graduate Computational Economics with Julia and MATLAB",
         url: "https://github.com/marek-chadim/Computational-economics"
     },
     {
-        title: "Data Science and Machine Learning",
-        description: "Coursera Specialization by Roger Peng, Jeff Leek and Brian Caffo; and by Andrew Ng.",
+        title: "Statistics and Data Science",
+        description: "Specializations by Roger Peng, Jeff Leek and Brian Caffo; Department of Biostatistics at Johns Hopkins.",
         url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881"
     },
     {
