@@ -31,9 +31,9 @@ const imageAltText = "The Economist as Plumber";
  */
 const projectList = [
   {
-    title: "Writing",
+    title: "Research",
     description:
-      "Causal Inference in Panel Data: Comparing Unconfoundedness and Parallel Trends with an Application to Markup Premia in Public Procurement",
+      "Markups and Public Procurement: Evidence from Czech Construction Tenders, 2006-2021",
     url: "https://github.com/marek-chadim/Markups-and-Public-Procurement",
   },
 
@@ -43,19 +43,19 @@ const projectList = [
     url: "https://github.com/marek-chadim/Mastering-Metrics/tree/main/coursework/PhD",
   },
   {
-    title: "Research Methodology",
-    description: "Empirical economics PhD course at Stockholm University",
+    title: "Machine Learning for Economists",
+    description: "Applied economics PhD course at Stockholm University",
     url: "https://github.com/marek-chadim/Applied-Economics",
   },
   {
-    title: "Structural Model Solving and Simulation",
+    title: "Computational Economics",
     description: "Graduate Computational Economics with Julia and MATLAB",
     url: "https://github.com/marek-chadim/Computational-economics",
   },
   {
-    title: "Data Science and Machine Learning",
+    title: "Statistics and Data Science",
     description:
-      "Coursera Specialization by Roger Peng, Jeff Leek and Brian Caffo; and by Andrew Ng.",
+      "Specializations by Roger Peng, Jeff Leek and Brian Caffo; Department of Biostatistics at Johns Hopkins.",
     url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
   },
 
