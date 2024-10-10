@@ -28793,8 +28793,8 @@ const imageAltText = "The Economist as Plumber";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "Writing",
-        description: "Causal Inference in Panel Data: Comparing Unconfoundedness and Parallel Trends with an Application to Markup Premia in Public Procurement",
+        title: "Research",
+        description: "Markups and Public Procurement: Evidence from Czech Construction Tenders, 2006-2021",
         url: "https://github.com/marek-chadim/Markups-and-Public-Procurement"
     },
     {
@@ -28803,12 +28803,12 @@ const imageAltText = "The Economist as Plumber";
         url: "https://github.com/marek-chadim/Mastering-Metrics/tree/main/coursework/PhD"
     },
     {
-        title: "Empirical Research and Machine Learning",
+        title: "Machine Learning for Economists",
         description: "Applied economics PhD course at Stockholm University",
         url: "https://github.com/marek-chadim/Applied-Economics"
     },
     {
-        title: "Numerical Methods",
+        title: "Computational Economics",
         description: "Graduate Computational Economics with Julia and MATLAB",
         url: "https://github.com/marek-chadim/Computational-economics"
     },
