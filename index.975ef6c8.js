@@ -28800,7 +28800,7 @@ const imageAltText = "The Economist as Plumber";
     {
         title: "Econometrics and Causal Inference",
         description: "PhD Econometrics sequence at Stockholm University",
-        url: "https://github.com/marek-chadim/Mastering-Metrics/tree/main/coursework/PhD"
+        url: "https://github.com/marek-chadim/Econometrics"
     },
     {
         title: "Machine Learning for Economists",
