@@ -24,7 +24,7 @@ const imageAltText = "Stockholm";
  * Short description that expands on your title on the Home component.
  */
 const description =
-  "I am an MSc Economics student focused on econometrics and applied microeconomics.";
+  "I am an MSc Economics student interested in econometric theory and applied econometrics.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -41,8 +41,9 @@ const skillsList = [
  */
 const detailOrQuote = (
   <div>
-    I am currently writing my MSc Thesis and work part-time as a research assistant at the Institute
-    for International Economic Studies, where I work with Professor{" "}
+    I am currently writing my MSc Thesis on causal inference with panel data. I also work part-time
+    as a research assistant at the Institute for International Economic Studies, where I assist
+    Professor{" "}
     <a href="http://perseus.iies.su.se/~ialm/" target="_blank" rel="noopener noreferrer">
       Ingvild Almås
     </a>{" "}
@@ -52,7 +53,7 @@ const detailOrQuote = (
       target="_blank"
       rel="noopener noreferrer"
     >
-      Kizazi Kijacho research team.
+      Kizazi Kijacho team with household decision-making and child development research.
     </a>{" "}
   </div>
 );
