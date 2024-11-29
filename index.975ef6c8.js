@@ -27187,7 +27187,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "I am an MSc Economics student interested in econometrics and applied microeconomics.";
+ */ const description = "Hi! I'm an MSc Student with research interests in econometrics, causal inference, and machine learning.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27201,7 +27201,7 @@ const imageAltText = "Stockholm";
  * about you on a professional level.
  */ const detailOrQuote = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
     children: [
-        "I am currently writing my MSc Thesis on causal inference with panel data. I also work part-time as a research assistant at the Institute for International Economic Studies, where I assist Professor",
+        "As a research assistant at the Institute for International Economic Studies, I work with Professor",
         " ",
         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
             href: "http://perseus.iies.su.se/~ialm/",
@@ -27210,7 +27210,7 @@ const imageAltText = "Stockholm";
             children: "Ingvild Alm\xe5s"
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
-            lineNumber: 47,
+            lineNumber: 46,
             columnNumber: 5
         }, undefined),
         " ",
@@ -27220,10 +27220,10 @@ const imageAltText = "Stockholm";
             href: "https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/",
             target: "_blank",
             rel: "noopener noreferrer",
-            children: "Kizazi Kijacho team with household decision-making and child development research."
+            children: "Kizazi Kijacho team on an early childhood development program in Tanzania."
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
-            lineNumber: 51,
+            lineNumber: 50,
             columnNumber: 5
         }, undefined),
         " "
@@ -27244,7 +27244,7 @@ const About = ()=>{
                 alt: imageAltText
             }, void 0, false, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 63,
+                lineNumber: 62,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27260,7 +27260,7 @@ const About = ()=>{
                         children: "About Myself"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 73,
+                        lineNumber: 72,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27268,12 +27268,12 @@ const About = ()=>{
                         children: description
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 74,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 75,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -27288,17 +27288,17 @@ const About = ()=>{
                                 children: skill
                             }, skill, false, {
                                 fileName: "src/Components/About.jsx",
-                                lineNumber: 86,
+                                lineNumber: 85,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 76,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 89,
+                        lineNumber: 88,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27308,19 +27308,19 @@ const About = ()=>{
                         children: detailOrQuote
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 90,
+                        lineNumber: 89,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 64,
+                lineNumber: 63,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/About.jsx",
-        lineNumber: 62,
+        lineNumber: 61,
         columnNumber: 5
     }, undefined);
 };
@@ -28793,8 +28793,8 @@ const imageAltText = "The Economist as Plumber";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "Working Paper",
-        description: "Markups and Public Procurement: Evidence from Czech Construction Tenders, 2006-2021",
+        title: "Independent Research",
+        description: "Markups and Public Procurement: Evidence from Czech Construction",
         url: "https://github.com/marek-chadim/Markups-and-Public-Procurement"
     },
     {
@@ -28803,23 +28803,23 @@ const imageAltText = "The Economist as Plumber";
         url: "https://github.com/marek-chadim/Econometrics"
     },
     {
-        title: "Machine Learning for Economists",
+        title: "Machine Learning",
         description: "Applied economics PhD course at Stockholm University",
         url: "https://github.com/marek-chadim/Applied-Economics"
     },
     {
         title: "Computational Economics",
-        description: "MSc Computational Economics with Julia and PhD bootcamp in MATLAB",
+        description: "MSc Julia and PhD MATLAB course at SSE/Stockholm University",
         url: "https://github.com/marek-chadim/Computational-economics"
     },
     {
         title: "Statistics and Data Science",
-        description: "Specialization by Roger Peng, Jeff Leek and Brian Caffo; Department of Biostatistics at Johns Hopkins.",
+        description: "Coursera specialization by Roger Peng, Jeff Leek and Brian Caffo",
         url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881"
     },
     {
-        title: "Data Analystics and Visualization",
-        description: "DataCamp Data Analyst Career Track Certification.",
+        title: "Data Wrangling",
+        description: "DataCamp Career Track Certificate",
         url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29"
     }, 
 ];
