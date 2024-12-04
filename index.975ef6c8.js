@@ -27221,7 +27221,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "Welcome to my PhD applications website! I'm an MSc Student with research interests in econometrics, causal inference, and machine learning.";
+ */ const description = "Welcome to my PhD application website! My research interests are primarily in theoretical and applied econometrics with a focus on applications of machine learning in economics and causal inference.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
