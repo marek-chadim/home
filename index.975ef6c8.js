@@ -27109,10 +27109,10 @@ var _stylesCss = require("./styles.css");
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                href: "https://www.dropbox.com/scl/fi/16dn5z9bs9cumadmixjwc/SoP_chadim.pdf?rlkey=a9gc87v19b9h8ze3fowghhn9a&st=bepmus6a&dl=0",
+                href: "https://www.dropbox.com/scl/fi/rxw60jp1ye4ek5nd7pb37/transcript_scores.pdf?rlkey=wwaobvvtzy7gfmgqvohn4x3r0&st=l7ix552h&dl=0",
                 target: "_blank",
                 rel: "noopener noreferrer",
-                children: "Statement of Purpose"
+                children: "Transcript and GRE/IELTS"
             }, void 0, false, {
                 fileName: "src/App.jsx",
                 lineNumber: 41,
@@ -27124,10 +27124,10 @@ var _stylesCss = require("./styles.css");
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                href: "https://www.dropbox.com/scl/fi/rxw60jp1ye4ek5nd7pb37/transcript_scores.pdf?rlkey=wwaobvvtzy7gfmgqvohn4x3r0&st=l7ix552h&dl=0",
+                href: "https://www.dropbox.com/scl/fi/16dn5z9bs9cumadmixjwc/SoP_chadim.pdf?rlkey=a9gc87v19b9h8ze3fowghhn9a&st=bepmus6a&dl=0",
                 target: "_blank",
                 rel: "noopener noreferrer",
-                children: "Transcript and Test Scores"
+                children: "Statement of Purpose"
             }, void 0, false, {
                 fileName: "src/App.jsx",
                 lineNumber: 49,
