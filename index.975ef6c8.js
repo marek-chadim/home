@@ -27109,10 +27109,10 @@ var _stylesCss = require("./styles.css");
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                href: "https://www.dropbox.com/scl/fi/rxw60jp1ye4ek5nd7pb37/transcript_scores.pdf?rlkey=wwaobvvtzy7gfmgqvohn4x3r0&st=l7ix552h&dl=0",
+                href: "https://www.dropbox.com/scl/fi/731rg1aqpny6z97t9oql2/MarkupsPublicProcurement.pdf?rlkey=m6ew7wcya1ajj3ru3eer37zj7&st=jz0yx9jf&dl=0",
                 target: "_blank",
                 rel: "noopener noreferrer",
-                children: "Transcript and GRE/IELTS"
+                children: "M.S. Thesis"
             }, void 0, false, {
                 fileName: "src/App.jsx",
                 lineNumber: 41,
@@ -27124,13 +27124,28 @@ var _stylesCss = require("./styles.css");
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                href: "https://www.dropbox.com/scl/fi/rxw60jp1ye4ek5nd7pb37/transcript_scores.pdf?rlkey=wwaobvvtzy7gfmgqvohn4x3r0&st=l7ix552h&dl=0",
+                target: "_blank",
+                rel: "noopener noreferrer",
+                children: "Transcript and GRE/IELTS"
+            }, void 0, false, {
+                fileName: "src/App.jsx",
+                lineNumber: 49,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                fileName: "src/App.jsx",
+                lineNumber: 56,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                 href: "https://www.dropbox.com/scl/fi/16dn5z9bs9cumadmixjwc/SoP_chadim.pdf?rlkey=a9gc87v19b9h8ze3fowghhn9a&st=bepmus6a&dl=0",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 children: "Statement of Purpose"
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 49,
+                lineNumber: 57,
                 columnNumber: 7
             }, undefined)
         ]
@@ -27144,7 +27159,7 @@ const App = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 66,
+                lineNumber: 74,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDefault.default), {
@@ -27152,17 +27167,17 @@ const App = ()=>{
                 title: siteProps.title
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 67,
+                lineNumber: 75,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 68,
+                lineNumber: 76,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _portfolioDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 69,
+                lineNumber: 77,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {
@@ -27171,13 +27186,13 @@ const App = ()=>{
                 secondaryColor: secondaryColor
             }, void 0, false, {
                 fileName: "src/App.jsx",
-                lineNumber: 70,
+                lineNumber: 78,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/App.jsx",
-        lineNumber: 65,
+        lineNumber: 73,
         columnNumber: 5
     }, undefined);
 };
@@ -27254,7 +27269,7 @@ const imageAltText = "Stockholm";
             href: "https://www.su.se/english/research/research-projects/kizazi-kijacho-research-for-the-next-generation?open-collapse-boxes=research-project-description,research-project-members/",
             target: "_blank",
             rel: "noopener noreferrer",
-            children: "Kizazi Kijacho team on an early childhood development program in Tanzania."
+            children: "Kizazi Kijacho research team on evaluating an early childhood intervention program."
         }, void 0, false, {
             fileName: "src/Components/About.jsx",
             lineNumber: 50,
@@ -28829,7 +28844,7 @@ const imageAltText = "The Economist as Plumber";
     {
         title: "Independent Research",
         description: "Markups and Public Procurement: Evidence from Czech Construction Tenders",
-        url: "https://www.dropbox.com/scl/fi/731rg1aqpny6z97t9oql2/MarkupsPublicProcurement.pdf?rlkey=m6ew7wcya1ajj3ru3eer37zj7&st=ksxzgyld&dl=0"
+        url: "https://github.com/marek-chadim/Markups-and-Public-Procurement"
     },
     {
         title: "Econometrics and Causal Inference",
