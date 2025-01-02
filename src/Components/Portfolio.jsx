@@ -31,9 +31,8 @@ const imageAltText = "The Economist as Plumber";
  */
 const projectList = [
   {
-    title: "Working Paper",
-    description:
-      "Markups and Public Procurement: Evidence from Czech Construction Tenders, 2006-2021",
+    title: "Independent Research",
+    description: "Markups and Public Procurement: Evidence from Czech Construction Tenders",
     url: "https://github.com/marek-chadim/Markups-and-Public-Procurement",
   },
 
@@ -43,25 +42,24 @@ const projectList = [
     url: "https://github.com/marek-chadim/Econometrics",
   },
   {
-    title: "Machine Learning for Economists",
+    title: "Machine Learning",
     description: "Applied economics PhD course at Stockholm University",
     url: "https://github.com/marek-chadim/Applied-Economics",
   },
   {
     title: "Computational Economics",
-    description: "MSc Computational Economics with Julia and PhD bootcamp in MATLAB",
+    description: "MSc Julia and PhD MATLAB course at SSE/Stockholm University",
     url: "https://github.com/marek-chadim/Computational-economics",
   },
   {
     title: "Statistics and Data Science",
-    description:
-      "Specialization by Roger Peng, Jeff Leek and Brian Caffo; Department of Biostatistics at Johns Hopkins.",
+    description: "Coursera specialization by Roger Peng, Jeff Leek and Brian Caffo",
     url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
   },
 
   {
-    title: "Data Analystics and Visualization",
-    description: "DataCamp Data Analyst Career Track Certification.",
+    title: "Data Wrangling",
+    description: "DataCamp Career Track Certificate",
     url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
   },
 ];

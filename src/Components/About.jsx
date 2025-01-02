@@ -24,14 +24,14 @@ const imageAltText = "Stockholm";
  * Short description that expands on your title on the Home component.
  */
 const description =
-  "I am an MSc Economics student interested in econometrics and applied microeconomics.";
+  "Hi and thanks for visiting my PhD/Pre-Doctoral applications website! My research interests are primarily in microeconometrics and empirical microeconomics.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Bachelor of Economics @ Charles University (CZ) @ Maastricht University (NL)",
-  "MSc in Economics @ Stockholm School of Economics (SE) @ Bocconi University (IT)",
+  "2020-2023: Bachelor of Economics @ Charles University Prague (CZ) & Erasmus+ Exchange @ Maastricht University (NL)",
+  "2023-2025: MSc in Economics @ Stockholm School of Economics (SE) & Erasmus+ Exchange @ Bocconi University (IT)",
 ];
 
 /**
@@ -41,8 +41,7 @@ const skillsList = [
  */
 const detailOrQuote = (
   <div>
-    I am currently writing my MSc Thesis on causal inference with panel data. I also work part-time
-    as a research assistant at the Institute for International Economic Studies, where I assist
+    As a research assistant at the Institute for International Economic Studies, I work with
     Professor{" "}
     <a href="http://perseus.iies.su.se/~ialm/" target="_blank" rel="noopener noreferrer">
       Ingvild Almås
@@ -53,7 +52,7 @@ const detailOrQuote = (
       target="_blank"
       rel="noopener noreferrer"
     >
-      Kizazi Kijacho team with household decision-making and child development research.
+      Kizazi Kijacho research team on evaluating an early childhood intervention program.
     </a>{" "}
   </div>
 );

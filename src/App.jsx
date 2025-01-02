@@ -29,13 +29,39 @@ const siteProps = {
   gitHub: "marek-chadim",
   linkedIn: "marek-chadim",
   title: (
-    <a
-      href="https://www.dropbox.com/scl/fi/1hb5fuv5rlasprnj6ixq5/cv_chadim.pdf?rlkey=jvuneynlb6g4fkrp5yfwcy8ov&st=0x4oqvp1&dl=0"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Curriculum Vitæ
-    </a>
+    <>
+      <a
+        href="https://www.dropbox.com/scl/fi/1hb5fuv5rlasprnj6ixq5/cv_chadim.pdf?rlkey=jvuneynlb6g4fkrp5yfwcy8ov&st=0x4oqvp1&dl=0"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Curriculum Vitæ
+      </a>
+      <br />
+      <a
+        href="https://www.dropbox.com/scl/fi/731rg1aqpny6z97t9oql2/MarkupsPublicProcurement.pdf?rlkey=m6ew7wcya1ajj3ru3eer37zj7&st=jz0yx9jf&dl=0"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        M.S. Thesis
+      </a>
+      <br />
+      <a
+        href="https://www.dropbox.com/scl/fi/rxw60jp1ye4ek5nd7pb37/transcript_scores.pdf?rlkey=wwaobvvtzy7gfmgqvohn4x3r0&st=l7ix552h&dl=0"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Transcript and GRE/IELTS
+      </a>
+      <br />
+      <a
+        href="https://www.dropbox.com/scl/fi/16dn5z9bs9cumadmixjwc/SoP_chadim.pdf?rlkey=a9gc87v19b9h8ze3fowghhn9a&st=bepmus6a&dl=0"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Statement of Purpose
+      </a>
+    </>
   ),
 };
 
