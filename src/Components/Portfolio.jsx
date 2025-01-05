@@ -37,7 +37,7 @@ const projectList = [
     description: "Markups and Public Procurement: Evidence from Czech Construction Tenders",
     url: "https://github.com/marek-chadim/Markups-and-Public-Procurement",
   },
-  
+
   {
     title: "Data, Economics, and Design of Policy",
     description: "MIT’s Department of Economics and J-PAL MicroMasters Program",
@@ -57,7 +57,7 @@ const projectList = [
     title: "Computational Economics",
     description: "MSc Julia and PhD MATLAB course at SSE/Stockholm University",
     url: "https://github.com/marek-chadim/Computational-economics",
-  }
+  },
   {
     title: "Statistics and Data Science",
     description: "Coursera specialization by Roger Peng, Jeff Leek and Brian Caffo",
