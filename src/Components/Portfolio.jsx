@@ -30,12 +30,19 @@ const imageAltText = "The Economist as Plumber";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
+
+
   {
     title: "Independent Research",
     description: "Markups and Public Procurement: Evidence from Czech Construction Tenders",
     url: "https://github.com/marek-chadim/Markups-and-Public-Procurement",
   },
-
+  
+  {
+    title: "Data, Economics, and Design of Policy",
+    description: "MIT’s Department of Economics and J-PAL MicroMasters Program",
+    url: "https://github.com/marek-chadim/MITx-Data-Econ-Policy",
+  },
   {
     title: "Econometrics and Causal Inference",
     description: "PhD Econometrics sequence at Stockholm University",
@@ -50,18 +57,14 @@ const projectList = [
     title: "Computational Economics",
     description: "MSc Julia and PhD MATLAB course at SSE/Stockholm University",
     url: "https://github.com/marek-chadim/Computational-economics",
-  },
+  }
   {
     title: "Statistics and Data Science",
     description: "Coursera specialization by Roger Peng, Jeff Leek and Brian Caffo",
     url: "https://coursera.org/share/e7b63d98d00917a1cb08d621e6447881",
   },
 
-  {
-    title: "Data Wrangling",
-    description: "DataCamp Career Track Certificate",
-    url: "https://www.datacamp.com/completed/statement-of-accomplishment/track/502249c656f5aa18470ce11d206736d9bc29ce29",
-  },
+
 ];
 
 const Portfolio = () => {
