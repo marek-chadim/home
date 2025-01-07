@@ -27094,7 +27094,7 @@ var _stylesCss = require("./styles.css");
     title: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                href: "https://www.dropbox.com/scl/fi/1hb5fuv5rlasprnj6ixq5/cv_chadim.pdf?rlkey=jvuneynlb6g4fkrp5yfwcy8ov&st=0x4oqvp1&dl=0",
+                href: "https://www.dropbox.com/scl/fi/tqijampodm05y2skxld4d/cv_chadim.pdf?rlkey=imr6zo6rbxqgvnepc3s9jb85j&st=kvw22r4w&dl=0",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 children: "Curriculum Vit\xe6"
@@ -27236,7 +27236,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "Hi and thanks for visiting my PhD/Pre-Doctoral applications website! My research interests are primarily in microeconometrics and empirical microeconomics.";
+ */ const description = "Hi and thanks for visiting my academic website! My research interests are primarily in microeconometrics and empirical microeconomics.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
