@@ -31,7 +31,7 @@ const siteProps = {
   title: (
     <>
       <a
-        href="https://www.dropbox.com/scl/fi/1hb5fuv5rlasprnj6ixq5/cv_chadim.pdf?rlkey=jvuneynlb6g4fkrp5yfwcy8ov&st=0x4oqvp1&dl=0"
+        href="https://www.dropbox.com/scl/fi/w3lyr7f60nvcb5p4jmm2h/cv_chadim.pdf?rlkey=nrlrsz9sr04wljww4ucjkc2c0&st=oz2poa24&dl=0"
         target="_blank"
         rel="noopener noreferrer"
       >
