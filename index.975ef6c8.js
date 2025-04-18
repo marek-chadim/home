@@ -27221,7 +27221,7 @@ var _stockholmJpgDefault = parcelHelpers.interopDefault(_stockholmJpg);
 const imageAltText = "Stockholm";
 /**
  * Short description that expands on your title on the Home component.
- */ const description = "Hi and thanks for visiting my website!";
+ */ const description = "Hi and thanks for visiting my academic portfolio website!";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
