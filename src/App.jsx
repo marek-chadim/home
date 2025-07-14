@@ -51,7 +51,7 @@ const siteProps = {
         target="_blank"
         rel="noopener noreferrer"
       >
-        Transcript and GRE/IELTS
+        Transcripts
       </a>
       <br />
       <a
